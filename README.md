@@ -1,2 +1,2 @@
-# Booking-System
-A booking system written in Java
+# Journey Planner
+A Journey Planner written in Java
